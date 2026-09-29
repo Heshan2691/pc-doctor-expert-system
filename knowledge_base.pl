@@ -23,7 +23,6 @@
             LEAST SPECIFIC, because the inference engine tries them
             from top to bottom and stops at the first rule that fires.
 
-   All sources accessed on 28 September 2026.
    ========================================================================== */
 
 :- discontiguous rule/6.
